@@ -1,0 +1,31 @@
+# Welcome to Loco :train:
+
+[Loco](https://loco.rs) is a web and API framework running on Rust.
+
+This is the **SaaS starter** which includes a `User` model and authentication based on JWT.
+It also include configuration sections that help you pick either a frontend or a server-side template set up for your fullstack server.
+
+## Quick Start
+
+To launch your app, simply use the following command:
+
+```sh
+shuttle run
+```
+
+## Full Stack Serving
+
+You can check your [configuration](config/development.yaml) to pick either frontend setup or server-side rendered template, and activate the relevant configuration sections.
+
+## Getting help
+
+Check out [a quick tour](https://loco.rs/docs/getting-started/tour/) or [the complete guide](https://loco.rs/docs/getting-started/guide/).
+
+
+## Shuttle template: loco-hello-world
+
+This template ([repo](https://github.com/shuttle-hq/loco-hello-world)) is a synced replica from [shuttle-examples](https://github.com/shuttle-hq/shuttle-examples/tree/main/loco/hello-world).
+
+[Deploy on Shuttle with just a few clicks!](https://console.shuttle.dev/templates/loco-hello-world)
+
+
